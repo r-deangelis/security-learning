@@ -1,0 +1,6 @@
+2026-11-09 08:00:01 INFO Service Started
+2026-11-09 08:00:05 ERROR Failed login for user admin
+2026-11-09 08:01:10 WARNING Disk usage at 85%
+2026-11-09 08:02:00 error Connection timeout
+2026-11-09 08:03:30 INFO User logged out 
+2026-11-09 08:04:12 Error Invalid token
